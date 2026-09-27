@@ -53,6 +53,9 @@ The dashboard includes:
 - Churn Rate by Dependent Status
 - Gender-based filtering
 
+### Dashboard
+
+![Dashboard](dashboard.png)
 
 ## 🔍 Key Insights
 
